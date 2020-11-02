@@ -1,6 +1,8 @@
 package ba.unsa.etf.rpr;
 
 
+//import sun.security.util.ArrayUtil;
+
 public class Supermarket{
     private Artikl[] artikli=new Artikl[1000];
     private int br=0;
